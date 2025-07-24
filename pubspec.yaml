@@ -1,0 +1,15 @@
+name: voting_system
+description: A Flutter web voting app with dark theme and charts
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.1.0
+  fl_chart: ^0.64.0
+  data_table_2: ^2.5.8
+
+flutter:
+  uses-material-design: true
